@@ -1,11 +1,11 @@
 {
   "adsApp": [
     {
-      "icon": "https://seeklogo.com/images/P/picsart-icon-logo-EE8CEAAED8-seeklogo.com.png",
-      "cover": "https://cdn.lynda.com/course/782134/782134-636773541930864641-16x9.jpg",
-      "appName": "PicsArt Photo Editor",
-      "description": "Edit your photo like a pro with neon light, neon effect, neon spiral and neon art. This is a new trend photo edior in 2019. Let try and make different things!",
-      "package": "com.picsart.studio",
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
+      "appName": "Neon Photo Editor",
+      "description": "Edit your photo like a pro with neon light, neon effect, neon spiral and neon art. This is a new trend photo edior in 2020. Let try and make different things!",
+      "package": "neon.light.photo.editor",
       "link": "",
       "actionText": "Visit App",
       "type": "app"
@@ -18,7 +18,7 @@
       "package": "com.frmart.photo",
       "link": "https://github.com/",
       "actionText": "Open Link",
-      "type": "link"
+      "type": "media"
     }
   ]
 }
