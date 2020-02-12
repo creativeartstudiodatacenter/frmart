@@ -11,14 +11,14 @@
       "type": "app"
     },
     {
-      "icon": "https://seeklogo.com/images/P/picsart-icon-logo-EE8CEAAED8-seeklogo.com.png",
-      "cover": "https://cdn.lynda.com/course/782134/782134-636773541930864641-16x9.jpg",
-      "appName": "Github.com",
-      "description": "See what launched at GitHub Universe\nSay hello to our new GitHub for mobile experience, get more from GitHub Actions and Packages, and learn how we’re shaping the future of software, together.",
-      "package": "com.frmart.photo",
-      "link": "https://github.com/",
-      "actionText": "Open Link",
-      "type": "media"
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic2.png",
+      "appName": "Emoji Photo Editor",
+      "description": "Emoji Photo Editor edit your photo to look cute girl with hundred of emoji background, heart crown effect, flower crown, dog face camera, cat stickers",
+      "package": "emoji.photo.editor",
+      "link": "",
+      "actionText": "Visit App",
+      "type": "app"
     }
   ]
 }
