@@ -1,13 +1,13 @@
 {
   "adsApp": [
-{
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster.jpg",
-      "appName": "Film Poster Maker",
-      "description": "Film Poster Maker is the best app for creating beautiful film covers",
-      "package": "film.poster.photo.maker",
+    {
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
+      "appName": "Neon Photo Editor",
+      "description": "Edit your photo like a pro with neon light, neon effect, neon spiral and neon art. This is a new trend photo edior in 2020. Let try and make different things!",
+      "package": "neon.light.photo.editor",
       "link": "",
-      "actionText": "VISIT APP",
+      "actionText": "Visit App",
       "type": "app"
     },
     {
