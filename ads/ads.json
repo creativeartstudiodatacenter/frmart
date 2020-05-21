@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster2.jpg",
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon3.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster3.jpg",
       "appName": "Album Cover Creator",
       "description": "Album Cover Creator is the best app for creating beautiful album covers. You can design amazing album art for your music albums or cd covers",
       "package": "album.cover.creator",
