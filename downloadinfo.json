@@ -1,5 +1,17 @@
 [
 	{
+		"neon.light.photo.editor.test":{
+			"am_ba": "mBZ7e7FmbDWerKvF4xfqizIcEpoodExmw9kdrDqa+848ftcvStPlkdGiMCKqbAW+",
+		      "am_in": "mBZ7e7FmbDWerKvF4xfqixa1pZioBYndzAMNjhDhdgQ0Q5mgQ52ArVJJDhm105QI",
+		      "am_vi": "mBZ7e7FmbDWerKvF4xfqi7G9SSJUsy6u3YVtMwCNjyfzhVPsiPF5d6y41z38wXir",
+		      "am_na": "mBZ7e7FmbDWerKvF4xfqixsqqBJxP7gz4M5f4c5R2foeRNrah3bxzSYkuhESvU2m",
+
+		      "fb_ba": "hFNjb/vMC8VwHfDm1qXfxIkUj43SlyRALXclEvyQyfNPDlc1+q96PybFwZpNH91E",
+		      "fb_in": "S5YS2WXClSguHRtxomt75sD8z8aIG/VAOKRQ/XW3mRc=",
+		      "fb_re": "VrIzL4E/6byfkeGSANQQcDzH9OMlsCHZfbCb9rFBFx6BuVkwqobUUjeeJLMKu5ld",
+		      "fb_na": "MWQ7OjhOlgFMuuKh18Weonz6evjTvjh8yAHbbzRnfkQbmeaecOLddL1iEde9beCA",
+			"ads_list": ["am","fb"]
+		},
 		"frm.art.sweet.selfie.camera":{
 		      "fb_ba": "TOQDAEx+VmqfCnASrVCP55RvMSw6KPes35yxD6cBUEc=",
 		      "fb_in": "TOQDAEx+VmqfCnASrVCP5woQx0qGfqN4+Tks2KlRFTs=",
