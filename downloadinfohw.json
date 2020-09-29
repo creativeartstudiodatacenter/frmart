@@ -1,5 +1,17 @@
 [
 {
+    "emoji.photo.editor.huawei": {
+      "am_ba": "mBZ7e7FmbDWerKvF4xfqizIcEpoodExmw9kdrDqa+848ftcvStPlkdGiMCKqbAW+",
+      "am_in": "mBZ7e7FmbDWerKvF4xfqixa1pZioBYndzAMNjhDhdgQ0Q5mgQ52ArVJJDhm105QI",
+      "am_vi": "mBZ7e7FmbDWerKvF4xfqi7G9SSJUsy6u3YVtMwCNjyfzhVPsiPF5d6y41z38wXir",
+      "am_na":"mBZ7e7FmbDWerKvF4xfqixsqqBJxP7gz4M5f4c5R2foeRNrah3bxzSYkuhESvU2m",
+      "hw_ba":"testw6vs28auh3",
+      "hw_sp":"testd7c5cewoj6",
+      "hw_in":"testb4znbuh3n2",
+      
+      "ads_list": ["am"]
+    },
+
     "filter.selfie.camera.photo.stickers.huawei": {
       "am_ba": "n4wRSH6JNZU8GdwCaK0fK8wmDlVn01gHZAK52VkLAQmG3joYJvb6mW1JFoEpwGpp",
       "am_in": "n4wRSH6JNZU8GdwCaK0fK1EJOHYa+MC/J653dSiodJFWZSIL1STSx+cd8nhpbv6w",
