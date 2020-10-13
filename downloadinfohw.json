@@ -1,5 +1,13 @@
 [
 {
+	"frm.art.sweet.selfie.camera": {
+      "am_ba": "n4wRSH6JNZU8GdwCaK0fK6OUVftfOIpCmuwwk7b1JkP+4/6ffbZDa2b75IXSnyJl",
+      "am_in": "n4wRSH6JNZU8GdwCaK0fK+ih9z4VTRaBsfUIyS0JAb9/peAATa5I2fAcxGvhStg9",
+      "am_na":"n4wRSH6JNZU8GdwCaK0fKweQQcODRXz8MNhF+KXLXaTjGrek0lWa1N8vWGHVLySj",
+
+      "ads_list": ["am"]
+    },
+
     "emoji.photo.editor.huawei.test": {
       "am_ba": "mBZ7e7FmbDWerKvF4xfqizIcEpoodExmw9kdrDqa+848ftcvStPlkdGiMCKqbAW+",
       "am_in": "mBZ7e7FmbDWerKvF4xfqixa1pZioBYndzAMNjhDhdgQ0Q5mgQ52ArVJJDhm105QI",
