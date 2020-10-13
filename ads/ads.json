@@ -1,6 +1,16 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
+      "appName": "Face Emoji Photo Editor",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "beauty.picshop.face.emoji.photo.editor",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
       "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon3.png",
       "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster3.jpg",
       "appName": "Album Cover Creator",
@@ -8,16 +18,6 @@
       "package": "album.cover.creator",
       "link": "",
       "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic2.png",
-      "appName": "Emoji Photo Editor",
-      "description": "Emoji Photo Editor edit your photo to look cute girl with hundred of emoji background, heart crown effect, flower crown, dog face camera, cat stickers",
-      "package": "emoji.photo.editor",
-      "link": "",
-      "actionText": "Visit App",
       "type": "app"
     }
   ]
