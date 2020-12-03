@@ -10,7 +10,7 @@
 		      "fb_in": "vmKn5pBJdkYRZNg4vLRueUbQxEo4e8oeRtwI6+EYwvg=",
 		      "fb_re": "vmKn5pBJdkYRZNg4vLRueftbbbMuzY78FjHwXkEALxg=",
 		      "fb_na": "vmKn5pBJdkYRZNg4vLRueTdc4PCXLN50fuY7DDTTlJ8=",
-			"ads_list": ["am","fb"]
+			"ads_list": ["fb", "am"]
 		},
 
 		"filter.selfie.camera.photo.stickers":{
