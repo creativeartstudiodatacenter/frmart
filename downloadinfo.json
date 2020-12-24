@@ -36,7 +36,7 @@
 		      "fb_in": "TOQDAEx+VmqfCnASrVCP5woQx0qGfqN4+Tks2KlRFTs=",
 		      "fb_re": "TOQDAEx+VmqfCnASrVCP56X0O/oM8XMHKvfFnUWbUv8=",
 		      "fb_na": "TOQDAEx+VmqfCnASrVCP53BZQPp9Cl1Ntznw//7XtJo=",
-			"ads_list": ["am","fb"]
+			"ads_list": ["fb", "am"]
 		},
 		"com.photo.editor":{
 		      "am_ba": "0XqqpGbjRpZqYzzc1V1rhSuu20zKBUypElMvvsFnw2NqsLoL3FhO3LHCGjMGAnXE",
