@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
-      "appName": "Face Emoji Photo Editor",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "beauty.picshop.face.emoji.photo.editor",
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster1.png",
+      "appName": "Filters for Snapchat",
+      "description": "Snapchat Filters for fantastic photos with Funny face filters. FREE for a limited time!",
+      "package": "sweet.snap.live.filters.snapchat",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon3.png",
-      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster3.jpg",
-      "appName": "Album Cover Creator",
-      "description": "Album Cover Creator is the best app for creating beautiful album covers. You can design amazing album art for your music albums or cd covers",
-      "package": "album.cover.creator",
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
+      "appName": "Face Emoji Photo Editor",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "beauty.picshop.face.emoji.photo.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
