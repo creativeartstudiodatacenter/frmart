@@ -1,11 +1,11 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
-      "appName": "Face Emoji Photo Editor",
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster1.png",
+      "appName": "Live Face Sticker Sweet Camera",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "beauty.picshop.face.emoji.photo.editor",
+      "package": "sweet.snap.live.face.sticker.sweet.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
