@@ -1,5 +1,18 @@
 [
 	{
+		"selfie.camera.stickers":{
+			  "am_ba": "",
+		      "am_in": "n4wRSH6JNZU8GdwCaK0fK8JNFepRbBQpAGlRgEhkmlt+S6CjEfZT5gaN2IvjRIy9",
+		      "am_vi": "n4wRSH6JNZU8GdwCaK0fKycas/yGx1p33KDIaO738OMg5cJIuSkbmlrT4CjrotdY",
+		      "am_na": "n4wRSH6JNZU8GdwCaK0fK1NUNsd5/wwAsApT+xS+3aqW2HMGI8FUvdiA8PzdbfoW",
+
+		      "fb_ba": "fyP9vM6DgWuitYHSVpxVROqeIuJVKs7qfY2pMb3BWMumEaNQ3qTzYVe2UFrBRz+y",
+		      "fb_in": "fyP9vM6DgWuitYHSVpxVRKlLVaDJypv4/b7tI4rZuKAWw+Pv5OUHXtlTE3oemrZz",
+		      "fb_re": "fyP9vM6DgWuitYHSVpxVRPFRmiFsVkDZr5WXwnsNO5uXPR/1Xgg7Q+WXIy83LP6q",
+		      "fb_na": "fyP9vM6DgWuitYHSVpxVRJnPy5g7MSyjMcH0GXfVR/jCXmf/u8hknSX8tQMCkcGC",
+			"ads_list": ["am", "fb"]
+		},
+		
 		"emoji.photo.editor":{
 			  "am_ba": "n4wRSH6JNZU8GdwCaK0fKwMML9VKT1M5wP7uhlR0psEZ228AfNvXk8jnWs4c6N0K",
 		      "am_in": "n4wRSH6JNZU8GdwCaK0fKz5ragbRQrxis/uFqhJnNqZAT66aayQFc6XcgLTccM5b",
