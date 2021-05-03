@@ -1,5 +1,14 @@
 [
 	{
+		"frm.sweet.snap.live.filter.face.camera.filters": {
+      		"am_ba": "n4wRSH6JNZU8GdwCaK0fKw69q23hSAu7BqtznJ+E8i4KmjJaKpV/p85yzJ9Exwj1",
+      		"am_in": "n4wRSH6JNZU8GdwCaK0fKxWuVCAUe+Hj2JNJn1FNI0bKqMXf/VM02SA0wsAVUze2",
+      		"am_re":"n4wRSH6JNZU8GdwCaK0fK5adx5BNwx1fCevzR1Yb6R/07F+Q2ZTESP7ewgAiBy6j",
+      		"am_na":"n4wRSH6JNZU8GdwCaK0fK2UMI+3ZZnhVgttlE5Cyg8VucjSKn8WIxwTzJKfHtdo5",
+
+      		"ads_list": ["am"]
+    	},
+
 		"selfie.camera.stickers":{
 			  "am_ba": "",
 		      "am_in": "n4wRSH6JNZU8GdwCaK0fK8JNFepRbBQpAGlRgEhkmlt+S6CjEfZT5gaN2IvjRIy9",
