@@ -57,14 +57,14 @@
 		      "fb_in": "S5YS2WXClSguHRtxomt75sD8z8aIG/VAOKRQ/XW3mRc=",
 		      "fb_re": "VrIzL4E/6byfkeGSANQQcDzH9OMlsCHZfbCb9rFBFx6BuVkwqobUUjeeJLMKu5ld",
 		      "fb_na": "MWQ7OjhOlgFMuuKh18Weonz6evjTvjh8yAHbbzRnfkQbmeaecOLddL1iEde9beCA",
-			"ads_list": ["fb","am"]
+			"ads_list": ["am","fb"]
 		},
 		"frm.art.sweet.selfie.camera":{
 		      "fb_ba": "TOQDAEx+VmqfCnASrVCP55RvMSw6KPes35yxD6cBUEc=",
 		      "fb_in": "TOQDAEx+VmqfCnASrVCP5woQx0qGfqN4+Tks2KlRFTs=",
 		      "fb_re": "TOQDAEx+VmqfCnASrVCP56X0O/oM8XMHKvfFnUWbUv8=",
 		      "fb_na": "TOQDAEx+VmqfCnASrVCP53BZQPp9Cl1Ntznw//7XtJo=",
-			"ads_list": ["fb", "am"]
+			"ads_list": ["am", "fb"]
 		},
 		"com.photo.editor":{
 		      "am_ba": "0XqqpGbjRpZqYzzc1V1rhSuu20zKBUypElMvvsFnw2NqsLoL3FhO3LHCGjMGAnXE",
