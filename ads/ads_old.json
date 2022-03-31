@@ -1,21 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/graphic.png",
+      "appName": "Template Maker",
+      "description": "This is the best app for creating beautiful template maker. Download now and be on your way to using this powerful mixtape cover maker",
+      "package": "das.template.maker",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster1.png",
       "appName": "Neon Horns Devil",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
       "package": "frame.art.master.neon.horns.devil.photo.editor",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/icon3.png",
-      "cover": "https://raw.githubusercontent.com/creativeartstudiodatacenter/frmart/master/ads/poster3.jpg",
-      "appName": "Album Cover Creator",
-      "description": "Album Cover Creator is the best app for creating beautiful album covers. You can design amazing album art for your music albums or cd covers",
-      "package": "album.cover.creator",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
