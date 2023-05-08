@@ -78,11 +78,11 @@
 		      "fb_re": "TOQDAEx+VmqfCnASrVCP56X0O/oM8XMHKvfFnUWbUv8=",
 		      "fb_na": "TOQDAEx+VmqfCnASrVCP53BZQPp9Cl1Ntznw//7XtJo=",
 
-		      "am_ba": "nBVQQ7ORyzXzGljhF6tT8d8MIDKxrwxbNT+22Umy548p8/GoDsHLWklIs8nk0WRP",
-		      "am_in": "nBVQQ7ORyzXzGljhF6tT8dBYrQSZEoydDHLylwX9YEj55t5dc30GH3hs19TGHWRz",
-		      "am_na": "nBVQQ7ORyzXzGljhF6tT8VNQ7BXEcllyluQp5jpoOdEEhrO9VxBLl+js6xgG/lmP",
+		      "am_ba": "",
+		      "am_in": "",
+		      "am_na": "",
 		      
-			"ads_list": ["am", "fb"]
+			"ads_list": ["fb"]
 		},
 		"com.photo.editor":{
 		      "am_ba": "0XqqpGbjRpZqYzzc1V1rhSuu20zKBUypElMvvsFnw2NqsLoL3FhO3LHCGjMGAnXE",
