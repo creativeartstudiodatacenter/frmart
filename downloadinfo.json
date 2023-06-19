@@ -16,18 +16,6 @@
       		"ads_list": ["am"]
     	},
 		"selfie.camera.stickers":{
-			  "am_ba": "99pixF+O18iShw21BHUmoMBUlngG0WAvDbNnMjTCAm8j28PpzT3wV2xZqYCYYfma",
-		      "am_in": "99pixF+O18iShw21BHUmoIeIN+CM5KPDJ+RHOB9SHcGnUJ/mBkvbsh5d2WRxnekM",
-		      "am_vi": "",
-		      "am_na": "99pixF+O18iShw21BHUmoFMt8DDc66hW60h8W1vBE8+uXWAQUoG3uKvp9pVaY9Uq",
-
-		      "fb_ba": "fyP9vM6DgWuitYHSVpxVROqeIuJVKs7qfY2pMb3BWMumEaNQ3qTzYVe2UFrBRz+y",
-		      "fb_in": "fyP9vM6DgWuitYHSVpxVRKlLVaDJypv4/b7tI4rZuKAWw+Pv5OUHXtlTE3oemrZz",
-		      "fb_re": "fyP9vM6DgWuitYHSVpxVRPFRmiFsVkDZr5WXwnsNO5uXPR/1Xgg7Q+WXIy83LP6q",
-		      "fb_na": "fyP9vM6DgWuitYHSVpxVRJnPy5g7MSyjMcH0GXfVR/jCXmf/u8hknSX8tQMCkcGC",
-			"ads_list": ["am", "fb"]
-		},
-		"selfie.camera.stickers.backup":{
 			  "am_ba": "",
 		      "am_in": "n4wRSH6JNZU8GdwCaK0fK8JNFepRbBQpAGlRgEhkmlt+S6CjEfZT5gaN2IvjRIy9",
 		      "am_vi": "n4wRSH6JNZU8GdwCaK0fKycas/yGx1p33KDIaO738OMg5cJIuSkbmlrT4CjrotdY",
@@ -76,23 +64,11 @@
 		      "fb_na": "MWQ7OjhOlgFMuuKh18Weonz6evjTvjh8yAHbbzRnfkQbmeaecOLddL1iEde9beCA",
 			"ads_list": ["am","fb"]
 		},
-		"frm.art.sweet.selfie.camera.backup":{
-		      "fb_ba": "TOQDAEx+VmqfCnASrVCP55RvMSw6KPes35yxD6cBUEc=",
-		      "fb_in": "TOQDAEx+VmqfCnASrVCP5woQx0qGfqN4+Tks2KlRFTs=",
-		      "fb_re": "TOQDAEx+VmqfCnASrVCP56X0O/oM8XMHKvfFnUWbUv8=",
-		      "fb_na": "TOQDAEx+VmqfCnASrVCP53BZQPp9Cl1Ntznw//7XtJo=",
-			"ads_list": ["am", "fb"]
-		},
 		"frm.art.sweet.selfie.camera":{
 		      "fb_ba": "TOQDAEx+VmqfCnASrVCP55RvMSw6KPes35yxD6cBUEc=",
 		      "fb_in": "TOQDAEx+VmqfCnASrVCP5woQx0qGfqN4+Tks2KlRFTs=",
 		      "fb_re": "TOQDAEx+VmqfCnASrVCP56X0O/oM8XMHKvfFnUWbUv8=",
 		      "fb_na": "TOQDAEx+VmqfCnASrVCP53BZQPp9Cl1Ntznw//7XtJo=",
-
-		      "am_ba": "99pixF+O18iShw21BHUmoHZvv7NG/5q4rObKnNlpSAnprqBrP8oz4J44D0ltcsEk",
-		      "am_in": "99pixF+O18iShw21BHUmoLOv97rl5Q0WYYKZK0nd4ocBrl2Gv1J/VCSy7hcabaTm",
-		      "am_na": "99pixF+O18iShw21BHUmoFEmaDjMPBBU4VPjQ3mJKToXqPpDzV/V6HrCqOs4iLdb",
-		      
 			"ads_list": ["am", "fb"]
 		},
 		"com.photo.editor":{
