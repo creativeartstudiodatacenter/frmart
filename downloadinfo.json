@@ -8,6 +8,14 @@
 
       		"ads_list": ["am"]
     	},
+    	"crown.heart.photo.editor": {
+      		"am_ba": "n4wRSH6JNZU8GdwCaK0fK8K8/kdETrC+Z3sMbZonxfbyac0WN+GOlDBjUKNcaBWf",
+      		"am_in": "n4wRSH6JNZU8GdwCaK0fKy112oVQCg9054ZQ3xGQ7vgGypSMH7hmMTl3INAz1Ah0",
+      		"am_re":"n4wRSH6JNZU8GdwCaK0fK7wLvuDZ2/QAIOalIeUetnY46Aw6N1qWuJmDyrpYVY3/",
+      		"am_na":"n4wRSH6JNZU8GdwCaK0fK9FJPZe/qBofPou3MnsR8Hc13uZWf6YJti0qbJHehaZt",
+
+      		"ads_list": ["am"]
+    	},
 		"frm.body.shape.editor.slim.face": {
       		"am_ba": "x+RpYQ1zMo75CEpLOuf3BmQRUCTe1K66AECPgZdP+fmCtKAs2tLS5+ubBaHqYM1w",
       		"am_in": "x+RpYQ1zMo75CEpLOuf3BveLKsSM4D6xtzXnajN2hw+0xdHBg8p5sDt3yVvfHi5b",
