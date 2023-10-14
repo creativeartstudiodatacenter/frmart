@@ -40,12 +40,13 @@
 	 "hw_ba":"testw6vs28auh3"
     },
     "crown.heart.photo.editor": {
-      "am_ba": "n4wRSH6JNZU8GdwCaK0fK9zFARql6oT3MXl4OOem+/cn1CHj9UamTwZW7ImQzWZ/",
-      "am_in": "n4wRSH6JNZU8GdwCaK0fK+FuV9dNGKEJJx4ZtNMIWCG36Tb5EebwASRw3qtARdrZ",
-      "am_vi": "",
-      "am_na":"n4wRSH6JNZU8GdwCaK0fK9pBmw82wY2LJeB4G6pRcHGQZ+dNhuQ1JpDBKpCZbm4d",
+      "am_ba": "4DMqcYNvuDpapndZq4U91w6SFm3unn1FuqwxVmqjHMSQdxeGjdlv7Ja0lzFYDdIC",
+      "am_in": "4DMqcYNvuDpapndZq4U915XtiWNne/OW0kYXtiQktDfCUTP04cioNzJMpUXjQ7SV",
+      "am_vi": "4DMqcYNvuDpapndZq4U91/0ubjhPcji4cJTRSdK0efqLgzXM6OrHeEfISGGjXF2S",
+      "am_na": "4DMqcYNvuDpapndZq4U91zx+0x066elDj8IEM8cAdc/2SuLTZbUA9HpUbQIyGc0W",
 
-     "hw_ba":"p7gr7pl3r9"
+     "hw_ba":"p7gr7pl3r9",
+     "ads_list": ["am"]
     }
  },
 {"configs":{
