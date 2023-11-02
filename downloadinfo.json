@@ -31,7 +31,7 @@
 
       		"ads_list": ["am"]
     	},
-		"selfie.camera.stickers":{
+		"selfie.camera.stickers.new":{
 			  "am_ba": "x+RpYQ1zMo75CEpLOuf3Bu5kfvDKKQL2QLD0sOpwAoBsWDZ7lMzM/sDgbxKrlVNa",
 		      "am_in": "x+RpYQ1zMo75CEpLOuf3Bjg+P+juS/sX5icHsmFSHhRkennRpVeoJeEuI1n4ws31",
 		      "am_vi": "",
@@ -43,6 +43,20 @@
 		      "fb_na": "fyP9vM6DgWuitYHSVpxVRJnPy5g7MSyjMcH0GXfVR/jCXmf/u8hknSX8tQMCkcGC",
 			"ads_list": ["am", "fb"]
 		},
+
+		"selfie.camera.stickers":{
+               "am_ba": "",
+               "am_in": "n4wRSH6JNZU8GdwCaK0fK8JNFepRbBQpAGlRgEhkmlt+S6CjEfZT5gaN2IvjRIy9",
+               "am_vi": "n4wRSH6JNZU8GdwCaK0fKycas/yGx1p33KDIaO738OMg5cJIuSkbmlrT4CjrotdY",
+               "am_na": "n4wRSH6JNZU8GdwCaK0fK1NUNsd5/wwAsApT+xS+3aqW2HMGI8FUvdiA8PzdbfoW",
+               
+		      "fb_ba": "fyP9vM6DgWuitYHSVpxVROqeIuJVKs7qfY2pMb3BWMumEaNQ3qTzYVe2UFrBRz+y",
+		      "fb_in": "fyP9vM6DgWuitYHSVpxVRKlLVaDJypv4/b7tI4rZuKAWw+Pv5OUHXtlTE3oemrZz",
+		      "fb_re": "fyP9vM6DgWuitYHSVpxVRPFRmiFsVkDZr5WXwnsNO5uXPR/1Xgg7Q+WXIy83LP6q",
+		      "fb_na": "fyP9vM6DgWuitYHSVpxVRJnPy5g7MSyjMcH0GXfVR/jCXmf/u8hknSX8tQMCkcGC",
+			"ads_list": ["am", "fb"]
+		},
+
 		"emoji.photo.editor":{
 			  "am_ba": "4DMqcYNvuDpapndZq4U914qjn1H5Hs45J5D+QcNrpXIjr/TFoHEBDpSlZHEjOFjN",
 		      "am_in": "4DMqcYNvuDpapndZq4U916sqt5TPibFuK3LEcajfdak/PsPCj6ZA4kC/jveLxU30",
@@ -69,7 +83,7 @@
 		      "fb_na": "5wpyETX3M40voS4o7Y8mScTWfWilPwj2JUo7yMPep9MOes1C8eVj2QlyCAbUinZ4",
 			"ads_list": ["fb"]
 		},
-		"hair.color.changer.easy":{
+		"hair.color.changer.easy.new":{
 			"am_ba": "x+RpYQ1zMo75CEpLOuf3BmVUqLXKsnYBxTfN0ro7AaunKYAlgO0XqHA/Yk9RMym0",
 		      "am_in": "x+RpYQ1zMo75CEpLOuf3BrmdkB8TEAgJVlqT7qwnBQG/OlcXhNcHONRMPcQNIcJz",
 		      "am_vi": "",
@@ -78,7 +92,7 @@
 			"ads_list": ["am"]
 		},
 
-		"neon.light.photo.editor":{
+		"neon.light.photo.editor.new":{
 			"am_ba": "x+RpYQ1zMo75CEpLOuf3Bk/NGGpBzvyxkodHSEeF7SqYs9rkkfjgt9Gd9HnQqyv9",
 		      "am_in": "x+RpYQ1zMo75CEpLOuf3BpeH0uhYNN9lFmVroV81m+Ckwugp3uTbVDbSrTBdDrXL",
 		      "am_vi": "",
